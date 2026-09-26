@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/NoWeedRespawn. This repo is archived and read-only; full history was preserved there.
+
 # NoWeedRespawn
 
 When weeds / mold / cadaver plants are completely cleared from an area, they stay gone for the rest of that moon (day).
